@@ -1,0 +1,6 @@
+<resources>
+<string name="app_name">Shop Counter</string>
+<string name="firm_name">My Family Shop</string>
+<string name="firm_address">123 Main Street, City</string>
+<string name="firm_phone">+91 9876543210</string>
+</resources>
